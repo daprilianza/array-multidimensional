@@ -1,0 +1,14 @@
+.sidebar {
+    background-color: lightskyblue;
+    color: #000000;
+    border-bottom: 1px solid black;
+    width: 200px;
+
+}
+
+a {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 30px;
+}
